@@ -27,4 +27,4 @@ You can test it in the (Chrome or Firefox) browser at localhost:3000.
 
 ## Author
 
-- [Pierre Chabardes](mailto:pierre@chabardes.net)
+- [Nawab Alam](mailto:xyz@gmail.com)
